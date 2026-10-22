@@ -4,22 +4,14 @@ plugins {
 }
 
 android {
-    namespace = "fa.equifa"
+    namespace = "com.equifa"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "fa.equifa"
+        applicationId = "com.equifa"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
-        versionName = "0.1.0"
+        versionName = "0.2"
     }
-
-    kotlinOptions {
-        jvmTarget = "17"
-    }
-}
-
-dependencies {
-    implementation("com.google.mlkit:translate:17.0.3")
 }
