@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EquiFa</string>
+    <string name="accessibility_service_label">EquiFa - ترجمه صفحه</string>
+    <string name="accessibility_service_description">متن‌های قابل‌دسترسی صفحه را برای ترجمه شناسایی می‌کند.</string>
+</resources>
